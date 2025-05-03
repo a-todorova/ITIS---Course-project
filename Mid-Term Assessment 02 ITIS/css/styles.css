@@ -1,0 +1,54 @@
+/* General styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+  }
+  
+  /* CSS for the header */
+  .header {
+    background-color: #007bff;
+    color: white;
+    text-align: center;
+    padding: 30px;
+  }
+  
+  .subheader {
+    color: white;
+    font-size: 14px;
+  }
+  
+  /* Styling for cards */
+  .card {
+    background-color: #ffffff;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 15px;
+    text-align: center; /* Added this from your header CSS for consistency */
+  }
+  
+  /* CSS for the canvas elements */
+  canvas {
+    border: 1px solid #333;
+    display: block;
+    margin: auto; /* Changed to 'auto' from your header CSS for consistency */
+  }
+
+
+  /* Top blue bar */
+  .top-bar {
+    background-color: #007bff;
+    color: white;
+    padding: 20px;
+    height: 100px;
+  }
+  
+  /* Subheader text */
+  .subheader {
+    font-size: 14px;
+    color: white;
+  }
+  
+  /* Logo image inside header */
+  .header-logo {
+    max-height: 70px;
+  }
